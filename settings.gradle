@@ -1,1 +1,3 @@
 rootProject.name = 'baseballapp'
+include 'bba.playbaseball'
+include 'bba.core'
